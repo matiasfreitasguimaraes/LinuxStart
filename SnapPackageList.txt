@@ -1,0 +1,15 @@
+code
+core
+core18
+core20
+flutter
+gnome-3-34-1804
+gnome-system-monitor
+gtk-common-themes
+orion-desktop
+qt551
+skype
+snapd
+spotify
+telegram-desktop
+vlc
